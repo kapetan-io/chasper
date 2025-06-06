@@ -1,9 +1,14 @@
-# Chasper
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub issues](https://img.shields.io/github/issues/kapetan-io/chasper)](https://github.com/kapetan-io/chasper/issues)
 [![GitHub stars](https://img.shields.io/github/stars/kapetan-io/chasper)](https://github.com/kapetan-io/chasper/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/kapetan-io/chasper)](https://github.com/kapetan-io/chasper/network)
+
+
+<h2 align="center">
+<img src="docs/images/chasper-logo.png" alt="Chasper Logo" width="600" /><br />
+chasper.chat
+</h2>
 
 > ⚠️ **This project is still in active development**
 
@@ -14,7 +19,7 @@ connections similar to real-world interactions.
 ## Tech Stack
 
 - **Frontend**: React Native in TypeScript
-- **Backend**: Golang
+- **Backend**: Golang or Zig if I'm feeling adventurous.
 
 ## Getting Started
 
