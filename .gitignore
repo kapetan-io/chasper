@@ -203,3 +203,4 @@ config.local.*
 # Development tools
 .aider*
 docs/notes
+docs/plans
