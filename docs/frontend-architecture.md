@@ -339,10 +339,12 @@ monitoring/
 ## Technology Stack
 
 ### Core Technologies
-- **React Native**: Cross-platform mobile development
-- **Expo**: Development platform and deployment
-- **TypeScript**: Type safety and developer experience
-- **Expo Router**: File-based routing system
+- React Native: Cross-platform mobile development
+- Expo: Development platform and deployment
+- TypeScript: Type safety and developer experience
+- Expo Router: File-based routing system
+- Tailwind CSS: CSS Framework
+- TanStack Query (React Query)
 
 ### Key Dependencies
 - **WebSocket**: Real-time communication
